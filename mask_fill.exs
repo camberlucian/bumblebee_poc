@@ -4,7 +4,6 @@ Mix.install([
   {:nx, "~> 0.4.1"},
   {:exla, "~> 0.4.1"},
   {:axon, "~> 0.3.1"},
-  {:kino, "~> 0.8.0"}
 ])
 
 # compile our numerical functions with EXLA
